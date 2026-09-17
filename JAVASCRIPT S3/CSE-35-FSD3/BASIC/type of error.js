@@ -5,3 +5,5 @@
   console.log(name);
 
   //decodeURL(%);//URL error :invalid URL not formed
+//reference error
+//range error
